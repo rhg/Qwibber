@@ -1,0 +1,886 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-02 08:26-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ../gwibber.desktop.in.h:1 ../gwibber/microblog/util/exceptions.py:42
+msgid "Gwibber"
+msgstr ""
+
+#: ../gwibber.desktop.in.h:2
+msgid "Gwibber Social Client"
+msgstr ""
+
+#: ../gwibber.desktop.in.h:3
+msgid "Social Client"
+msgstr ""
+
+#: ../gwibber.desktop.in.h:4
+msgid "Update your microblog and follow your contacts' statuses"
+msgstr ""
+
+#: ../gwibber-accounts.desktop.in.h:1
+msgid "Add, edit, and delete your broadcast accounts"
+msgstr ""
+
+#: ../gwibber-accounts.desktop.in.h:2 ../ui/gwibber-accounts-dialog.ui.h:4
+msgid "Broadcast Accounts"
+msgstr ""
+
+#: ../gwibber-preferences.desktop.in.h:1
+msgid "Broadcast Preferences"
+msgstr ""
+
+#: ../gwibber-preferences.desktop.in.h:2
+msgid "Change your broadcast preferences"
+msgstr ""
+
+#: ../gwibber/actions.py:37
+msgid "_Reply"
+msgstr ""
+
+#: ../gwibber/actions.py:56
+msgid "View reply t_hread"
+msgstr ""
+
+#: ../gwibber/actions.py:66
+msgid "R_etweet"
+msgstr ""
+
+#: ../gwibber/actions.py:98
+msgid "_Direct Message"
+msgstr ""
+
+#: ../gwibber/actions.py:114
+msgid "_Like this message"
+msgstr ""
+
+#: ../gwibber/actions.py:127
+msgid "Liked"
+msgstr ""
+
+#: ../gwibber/actions.py:127
+msgid "You have marked this message as liked."
+msgstr ""
+
+#: ../gwibber/actions.py:139
+msgid "_Delete this message"
+msgstr ""
+
+#: ../gwibber/actions.py:152
+msgid "Deleted"
+msgstr ""
+
+#: ../gwibber/actions.py:152
+msgid "The message has been deleted."
+msgstr ""
+
+#: ../gwibber/actions.py:164
+msgid "_Search for a query"
+msgstr ""
+
+#: ../gwibber/actions.py:172
+msgid "View _Message"
+msgstr ""
+
+#: ../gwibber/actions.py:199
+msgid "View user _Profile"
+msgstr ""
+
+#: ../gwibber/actions.py:225
+msgid "Tra_nslate"
+msgstr ""
+
+#: ../gwibber/actions.py:249
+msgid "Save to _Tomboy"
+msgstr ""
+
+#: ../gwibber/actions.py:254
+#, python-format
+msgid ""
+"%(service_name)s message from %(sender)s at %(time)s\n"
+"\n"
+"%(message)s\n"
+"\n"
+"Source: %(url)s"
+msgstr ""
+
+#: ../gwibber/client.py:166
+msgid "Social broadcast messages"
+msgstr ""
+
+#: ../gwibber/client.py:222 ../gwibber/lib/gtk/widgets.py:53
+msgid "Send"
+msgstr ""
+
+#: ../gwibber/client.py:328
+msgid "_Gwibber"
+msgstr ""
+
+#: ../gwibber/client.py:329
+msgid "_Edit"
+msgstr ""
+
+#: ../gwibber/client.py:330
+msgid "_Help"
+msgstr ""
+
+#: ../gwibber/client.py:332 ../gwibber/client.py:367
+msgid "_Refresh"
+msgstr ""
+
+#: ../gwibber/client.py:333
+msgid "_Search"
+msgstr ""
+
+#: ../gwibber/client.py:334 ../gwibber/client.py:371
+msgid "_Accounts"
+msgstr ""
+
+#: ../gwibber/client.py:335 ../gwibber/client.py:375
+msgid "_Preferences"
+msgstr ""
+
+#: ../gwibber/client.py:336
+msgid "_About"
+msgstr ""
+
+#: ../gwibber/client.py:337
+msgid "_Quit"
+msgstr ""
+
+#: ../gwibber/client.py:339
+msgid "_New Stream"
+msgstr ""
+
+#: ../gwibber/client.py:340
+msgid "_Close Window"
+msgstr ""
+
+#: ../gwibber/client.py:341
+msgid "_Close Stream"
+msgstr ""
+
+#: ../gwibber/client.py:343
+msgid "Get Help Online..."
+msgstr ""
+
+#: ../gwibber/client.py:344
+msgid "Translate This Application..."
+msgstr ""
+
+#: ../gwibber/client.py:345
+msgid "Report A Problem..."
+msgstr ""
+
+#: ../gwibber/gwui.py:98
+msgid "Home"
+msgstr ""
+
+#. This list is defined just to get the strings in the template for translation
+#: ../gwibber/gwui.py:106 ../gwibber/microblog/dispatcher.py:660
+#: ../ui/gwibber-preferences-dialog.ui.h:14
+msgid "Messages"
+msgstr ""
+
+#: ../gwibber/gwui.py:106 ../gwibber/microblog/dispatcher.py:649
+msgid "Replies"
+msgstr ""
+
+#: ../gwibber/gwui.py:106
+msgid "Images"
+msgstr ""
+
+#: ../gwibber/gwui.py:106
+msgid "Links"
+msgstr ""
+
+#: ../gwibber/gwui.py:106
+msgid "Videos"
+msgstr ""
+
+#: ../gwibber/gwui.py:106 ../gwibber/microblog/dispatcher.py:636
+msgid "Private"
+msgstr ""
+
+#: ../gwibber/gwui.py:118 ../gwibber/gwui.py:155
+msgid "Sent"
+msgstr ""
+
+#: ../gwibber/gwui.py:172
+msgid "Lists"
+msgstr ""
+
+#: ../gwibber/gwui.py:187 ../gwibber/gwui.py:926
+msgid "Search"
+msgstr ""
+
+#: ../gwibber/gwui.py:874
+msgid "Close"
+msgstr ""
+
+#: ../gwibber/gwui.py:881
+msgid "Edit Account"
+msgstr ""
+
+#: ../gwibber/gwui.py:887
+msgid "Retry"
+msgstr ""
+
+#: ../gwibber/microblog/dispatcher.py:294
+msgid "Refresh"
+msgstr ""
+
+#: ../gwibber/microblog/dispatcher.py:299
+msgid "Accounts"
+msgstr ""
+
+#: ../gwibber/microblog/dispatcher.py:304
+msgid "Preferences"
+msgstr ""
+
+#: ../gwibber/microblog/dispatcher.py:309
+msgid "Quit"
+msgstr ""
+
+#: ../gwibber/microblog/dispatcher.py:745
+msgid "has shared a photo"
+msgstr ""
+
+#: ../gwibber/microblog/dispatcher.py:747
+msgid "has shared a link"
+msgstr ""
+
+#: ../gwibber/microblog/dispatcher.py:749
+msgid "has shared a video"
+msgstr ""
+
+#: ../gwibber/microblog/util/exceptions.py:36
+#, python-format
+msgid ""
+"There was an %(kind)s failure from %(service)s for account %(account)s, "
+"error was %(error)s"
+msgstr ""
+
+#: ../gwibber/microblog/util/exceptions.py:45
+#, python-format
+msgid "Authentication error from %(service)s for account %(account)s"
+msgstr ""
+
+#: ../gwibber/microblog/util/exceptions.py:49
+msgid "Gwibber Authentication Error"
+msgstr ""
+
+#: ../gwibber/microblog/util/exceptions.py:52
+#, python-format
+msgid "There was a network error communicating with %(message)s"
+msgstr ""
+
+#: ../gwibber/microblog/util/exceptions.py:53
+msgid "Gwibber Network Error"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/facebook/gtk/facebook/__init__.py:78
+#: ../gwibber/microblog/plugins/facebook/gtk/facebook/__init__.py:144
+#, python-format
+msgid "%s has been authorized by Facebook"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/facebook/gtk/facebook/__init__.py:94
+#: ../gwibber/microblog/plugins/statusnet/gtk/statusnet/__init__.py:73
+#: ../gwibber/microblog/plugins/twitter/gtk/twitter/__init__.py:61
+#: ../gwibber/microblog/plugins/identica/gtk/identica/__init__.py:63
+#: ../gwibber/microblog/plugins/buzz/gtk/buzz/__init__.py:49
+msgid "<p>Please wait...</p>"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/facebook/gtk/facebook/__init__.py:159
+msgid "Facebook authorization failed. Please try again."
+msgstr ""
+
+#: ../gwibber/microblog/plugins/statusnet/gtk/statusnet/__init__.py:46
+#: ../gwibber/microblog/plugins/statusnet/gtk/statusnet/__init__.py:209
+#: ../gwibber/microblog/plugins/identica/gtk/identica/__init__.py:47
+#, python-format
+msgid "%s has been authorized by %s"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/statusnet/gtk/statusnet/__init__.py:226
+#: ../gwibber/microblog/plugins/twitter/gtk/twitter/__init__.py:146
+#: ../gwibber/microblog/plugins/twitter/gtk/twitter/__init__.py:150
+#: ../gwibber/microblog/plugins/twitter/gtk/twitter/__init__.py:170
+#: ../gwibber/microblog/plugins/identica/gtk/identica/__init__.py:212
+#: ../gwibber/microblog/plugins/buzz/gtk/buzz/__init__.py:123
+msgid "Authorization failed. Please try again."
+msgstr ""
+
+#: ../gwibber/microblog/plugins/twitter/gtk/twitter/__init__.py:44
+#: ../gwibber/microblog/plugins/twitter/gtk/twitter/__init__.py:158
+#, python-format
+msgid "%s has been authorized by Twitter"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/twitter/gtk/twitter/__init__.py:100
+msgid "Verifying"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/twitter/gtk/twitter/__init__.py:153
+msgid "Successful"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/identica/gtk/identica/__init__.py:196
+#, python-format
+msgid "%s has been authorized by Identi.ca"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/buzz/gtk/buzz/__init__.py:37
+#: ../gwibber/microblog/plugins/buzz/gtk/buzz/__init__.py:111
+#, python-format
+msgid "%s has been authorized by Buzz"
+msgstr ""
+
+#: ../gwibber/util.py:113
+#, python-format
+msgid "%(year)d year ago"
+msgid_plural "%(year)d years ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../gwibber/util.py:116
+#, python-format
+msgid "%(day)d day ago"
+msgid_plural "%(day)d days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../gwibber/util.py:119
+#, python-format
+msgid "%(hour)d hour ago"
+msgid_plural "%(hour)d hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../gwibber/util.py:122
+#, python-format
+msgid "%(minute)d minute ago"
+msgid_plural "%(minute)d minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../gwibber/util.py:125
+msgid "Just now"
+msgstr ""
+
+#: ../gwibber/util.py:126
+#, python-format
+msgid "%(sec)d second ago"
+msgid_plural "%(sec)d seconds ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ui/gwibber-about-dialog.ui.h:1
+msgid "About Gwibber"
+msgstr ""
+
+#: ../ui/gwibber-about-dialog.ui.h:2
+msgid "Copyright (C) 2007-2010 Gwibber Team"
+msgstr ""
+
+#: ../ui/gwibber-about-dialog.ui.h:3
+msgid "Gwibber Web Site"
+msgstr ""
+
+#: ../ui/gwibber-about-dialog.ui.h:4
+msgid ""
+"Gwibber is an open source microblogging client for GNOME that supports "
+"Twitter, Jaiku, Facebook, Pownce, Identi.ca and other popular social web "
+"services."
+msgstr ""
+
+#: ../ui/gwibber-about-dialog.ui.h:5
+msgid ""
+"Ryan Paul\n"
+"Dominic Evans\n"
+"Greg Grossmeier\n"
+"Ken VanDine"
+msgstr ""
+
+#: ../ui/gwibber-about-dialog.ui.h:9
+msgid ""
+"This program is free software; you can redistribute it and/or\n"
+"modify it under the terms of the GNU General Public License\n"
+"as published by the Free Software Foundation; either version 2\n"
+"of the License, or (at your option) any later version.\n"
+"\n"
+"This program is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License\n"
+"along with this program; if not, write to the Free Software\n"
+"Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, "
+"USA.\n"
+msgstr ""
+
+#. Translators: insert your name here as Name Surname <email>, year
+#: ../ui/gwibber-about-dialog.ui.h:24
+msgid "translator-credits"
+msgstr ""
+
+#: ../ui/gwibber-accounts-dialog.ui.h:1
+msgid "Add _new account for:"
+msgstr ""
+
+#: ../ui/gwibber-accounts-dialog.ui.h:2
+msgid "Add a new account"
+msgstr ""
+
+#: ../ui/gwibber-accounts-dialog.ui.h:3
+msgid "Add an account for the selected service"
+msgstr ""
+
+#: ../ui/gwibber-accounts-dialog.ui.h:5
+msgid "Remove the selected account"
+msgstr ""
+
+#: ../ui/gwibber-accounts-dialog.ui.h:6
+msgid "Select a service"
+msgstr ""
+
+#: ../ui/gwibber-accounts-dialog.ui.h:7
+msgid "_Add"
+msgstr ""
+
+#: ../ui/gwibber-accounts-dialog.ui.h:8
+msgid "_Add..."
+msgstr ""
+
+#: ../ui/gwibber-accounts-dialog.ui.h:9
+msgid "_Remove"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:1
+msgid "<b>Advanced</b>"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:2
+msgid "<b>Retweet</b>"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:3
+msgid "<b>Show notifications for:</b>"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:4
+msgid "<b>Theme</b>"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:5
+msgid "<b>Tray Icon</b>"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:6
+msgid "<b>Update</b>"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:7
+msgid "All messages"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:8
+msgid "Append colon to username when replying"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:9
+msgid "Automatically shorten pasted URLs using:"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:10
+msgid "Broadcast Messaging Preferences"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:11
+msgid "Do not display notifications"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:12
+msgid "Hide taskbar entry"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:13
+msgid "Mentions and replies only"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:15
+msgid "Minimize to tray on close"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:16
+msgid "Minutes between refresh:  "
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:17
+msgid ""
+"Only receive notifications when someone replies to one of your messages or "
+"mentions your name"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:18
+msgid "Receive notifications for all messages"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:19
+msgid "Refresh frequency"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:20
+msgid "Select a message theme"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:21
+msgid "Send retweets to all services"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:22
+msgid "Show real names in messages"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:23
+msgid "Show tray icon"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:24
+msgid "Start service at login"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:25
+msgid "Style"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:26
+msgid "_Options"
+msgstr ""
+
+#: ../ui/gwibber-preferences-dialog.ui.h:27
+msgid "radiobutton"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/buzz/ui/gwibber-accounts-buzz.ui.h:1
+#: ../gwibber/microblog/plugins/digg/ui/gwibber-accounts-digg.ui.h:2
+#: ../gwibber/microblog/plugins/facebook/ui/gwibber-accounts-facebook.ui.h:1
+#: ../gwibber/microblog/plugins/flickr/ui/gwibber-accounts-flickr.ui.h:2
+#: ../gwibber/microblog/plugins/friendfeed/ui/gwibber-accounts-friendfeed.ui.h:5
+#: ../gwibber/microblog/plugins/identica/ui/gwibber-accounts-identica.ui.h:1
+#: ../gwibber/microblog/plugins/pingfm/ui/gwibber-accounts-pingfm.ui.h:5
+#: ../gwibber/microblog/plugins/statusnet/ui/gwibber-accounts-statusnet.ui.h:1
+#: ../gwibber/microblog/plugins/twitter/ui/gwibber-accounts-twitter.ui.h:1
+#: ../gwibber/microblog/plugins/qaiku/ui/gwibber-accounts-qaiku.ui.h:5
+#: ../gwibber/microblog/plugins/foursquare/ui/gwibber-accounts-foursquare.ui.h:2
+msgid "Account Color:"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/buzz/ui/gwibber-accounts-buzz.ui.h:2
+#: ../gwibber/microblog/plugins/digg/ui/gwibber-accounts-digg.ui.h:3
+#: ../gwibber/microblog/plugins/facebook/ui/gwibber-accounts-facebook.ui.h:2
+#: ../gwibber/microblog/plugins/flickr/ui/gwibber-accounts-flickr.ui.h:3
+#: ../gwibber/microblog/plugins/friendfeed/ui/gwibber-accounts-friendfeed.ui.h:6
+#: ../gwibber/microblog/plugins/identica/ui/gwibber-accounts-identica.ui.h:2
+#: ../gwibber/microblog/plugins/statusnet/ui/gwibber-accounts-statusnet.ui.h:2
+#: ../gwibber/microblog/plugins/twitter/ui/gwibber-accounts-twitter.ui.h:2
+#: ../gwibber/microblog/plugins/qaiku/ui/gwibber-accounts-qaiku.ui.h:6
+#: ../gwibber/microblog/plugins/foursquare/ui/gwibber-accounts-foursquare.ui.h:3
+msgid "Account Settings:"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/buzz/ui/gwibber-accounts-buzz.ui.h:3
+#: ../gwibber/microblog/plugins/facebook/ui/gwibber-accounts-facebook.ui.h:3
+#: ../gwibber/microblog/plugins/friendfeed/ui/gwibber-accounts-friendfeed.ui.h:7
+#: ../gwibber/microblog/plugins/identica/ui/gwibber-accounts-identica.ui.h:3
+#: ../gwibber/microblog/plugins/pingfm/ui/gwibber-accounts-pingfm.ui.h:7
+#: ../gwibber/microblog/plugins/statusnet/ui/gwibber-accounts-statusnet.ui.h:3
+#: ../gwibber/microblog/plugins/twitter/ui/gwibber-accounts-twitter.ui.h:3
+#: ../gwibber/microblog/plugins/qaiku/ui/gwibber-accounts-qaiku.ui.h:7
+msgid "Allow sending posts to this account"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/buzz/ui/gwibber-accounts-buzz.ui.h:4
+msgid "Authorize with buzz"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/buzz/ui/gwibber-accounts-buzz.ui.h:5
+msgid "Buzz authorized"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/buzz/ui/gwibber-accounts-buzz.ui.h:6
+#: ../gwibber/microblog/plugins/digg/ui/gwibber-accounts-digg.ui.h:4
+#: ../gwibber/microblog/plugins/facebook/ui/gwibber-accounts-facebook.ui.h:5
+#: ../gwibber/microblog/plugins/flickr/ui/gwibber-accounts-flickr.ui.h:4
+#: ../gwibber/microblog/plugins/friendfeed/ui/gwibber-accounts-friendfeed.ui.h:8
+#: ../gwibber/microblog/plugins/identica/ui/gwibber-accounts-identica.ui.h:5
+#: ../gwibber/microblog/plugins/pingfm/ui/gwibber-accounts-pingfm.ui.h:8
+#: ../gwibber/microblog/plugins/statusnet/ui/gwibber-accounts-statusnet.ui.h:5
+#: ../gwibber/microblog/plugins/twitter/ui/gwibber-accounts-twitter.ui.h:5
+#: ../gwibber/microblog/plugins/qaiku/ui/gwibber-accounts-qaiku.ui.h:8
+#: ../gwibber/microblog/plugins/foursquare/ui/gwibber-accounts-foursquare.ui.h:4
+msgid "Color used to help distinguish accounts"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/buzz/ui/gwibber-accounts-buzz.ui.h:7
+#: ../gwibber/microblog/plugins/digg/ui/gwibber-accounts-digg.ui.h:5
+#: ../gwibber/microblog/plugins/facebook/ui/gwibber-accounts-facebook.ui.h:7
+#: ../gwibber/microblog/plugins/flickr/ui/gwibber-accounts-flickr.ui.h:5
+#: ../gwibber/microblog/plugins/friendfeed/ui/gwibber-accounts-friendfeed.ui.h:9
+#: ../gwibber/microblog/plugins/identica/ui/gwibber-accounts-identica.ui.h:7
+#: ../gwibber/microblog/plugins/pingfm/ui/gwibber-accounts-pingfm.ui.h:9
+#: ../gwibber/microblog/plugins/statusnet/ui/gwibber-accounts-statusnet.ui.h:6
+#: ../gwibber/microblog/plugins/twitter/ui/gwibber-accounts-twitter.ui.h:6
+#: ../gwibber/microblog/plugins/qaiku/ui/gwibber-accounts-qaiku.ui.h:9
+#: ../gwibber/microblog/plugins/foursquare/ui/gwibber-accounts-foursquare.ui.h:5
+msgid "Include this account when downloading messages"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/buzz/ui/gwibber-accounts-buzz.ui.h:8
+#: ../gwibber/microblog/plugins/facebook/ui/gwibber-accounts-facebook.ui.h:8
+#: ../gwibber/microblog/plugins/identica/ui/gwibber-accounts-identica.ui.h:8
+#: ../gwibber/microblog/plugins/statusnet/ui/gwibber-accounts-statusnet.ui.h:9
+#: ../gwibber/microblog/plugins/twitter/ui/gwibber-accounts-twitter.ui.h:8
+msgid "_Authorize"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/buzz/ui/gwibber-accounts-buzz.ui.h:9
+#: ../gwibber/microblog/plugins/digg/ui/gwibber-accounts-digg.ui.h:7
+#: ../gwibber/microblog/plugins/facebook/ui/gwibber-accounts-facebook.ui.h:9
+#: ../gwibber/microblog/plugins/flickr/ui/gwibber-accounts-flickr.ui.h:7
+#: ../gwibber/microblog/plugins/friendfeed/ui/gwibber-accounts-friendfeed.ui.h:12
+#: ../gwibber/microblog/plugins/identica/ui/gwibber-accounts-identica.ui.h:9
+#: ../gwibber/microblog/plugins/pingfm/ui/gwibber-accounts-pingfm.ui.h:12
+#: ../gwibber/microblog/plugins/statusnet/ui/gwibber-accounts-statusnet.ui.h:10
+#: ../gwibber/microblog/plugins/twitter/ui/gwibber-accounts-twitter.ui.h:9
+#: ../gwibber/microblog/plugins/qaiku/ui/gwibber-accounts-qaiku.ui.h:11
+#: ../gwibber/microblog/plugins/foursquare/ui/gwibber-accounts-foursquare.ui.h:8
+msgid "_Receive Messages"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/buzz/ui/gwibber-accounts-buzz.ui.h:10
+#: ../gwibber/microblog/plugins/facebook/ui/gwibber-accounts-facebook.ui.h:10
+#: ../gwibber/microblog/plugins/friendfeed/ui/gwibber-accounts-friendfeed.ui.h:13
+#: ../gwibber/microblog/plugins/identica/ui/gwibber-accounts-identica.ui.h:10
+#: ../gwibber/microblog/plugins/pingfm/ui/gwibber-accounts-pingfm.ui.h:13
+#: ../gwibber/microblog/plugins/statusnet/ui/gwibber-accounts-statusnet.ui.h:11
+#: ../gwibber/microblog/plugins/twitter/ui/gwibber-accounts-twitter.ui.h:10
+#: ../gwibber/microblog/plugins/qaiku/ui/gwibber-accounts-qaiku.ui.h:12
+msgid "_Send Messages"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/digg/ui/gwibber-accounts-digg.ui.h:1
+msgid "<span size=\"small\"><b>Example:</b> username</span>"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/digg/ui/gwibber-accounts-digg.ui.h:6
+#: ../gwibber/microblog/plugins/friendfeed/ui/gwibber-accounts-friendfeed.ui.h:10
+#: ../gwibber/microblog/plugins/pingfm/ui/gwibber-accounts-pingfm.ui.h:10
+#: ../gwibber/microblog/plugins/qaiku/ui/gwibber-accounts-qaiku.ui.h:10
+#: ../gwibber/microblog/plugins/foursquare/ui/gwibber-accounts-foursquare.ui.h:6
+msgid "Login I_D:"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/facebook/ui/gwibber-accounts-facebook.ui.h:4
+msgid "Authorize with facebook"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/facebook/ui/gwibber-accounts-facebook.ui.h:6
+msgid "Facebook authorized"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/flickr/ui/gwibber-accounts-flickr.ui.h:1
+msgid "<span size=\"small\"><b>Example:</b> screenname</span>"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/flickr/ui/gwibber-accounts-flickr.ui.h:6
+msgid "Screen _Name:"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/friendfeed/ui/gwibber-accounts-friendfeed.ui.h:1
+msgid ""
+"<span size=\"small\"><b>Example:</b> username</span>\n"
+"friendfeed requires a \"remote key\" for access from gwibber, \n"
+"you can find your's at <a href=\"https://friendfeed.com/account/api"
+"\">https://friendfeed.com/account/api</a>\n"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/friendfeed/ui/gwibber-accounts-friendfeed.ui.h:11
+#: ../gwibber/microblog/plugins/pingfm/ui/gwibber-accounts-pingfm.ui.h:11
+msgid "Remote key:"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/identica/ui/gwibber-accounts-identica.ui.h:4
+msgid "Authorize with Identi.ca"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/identica/ui/gwibber-accounts-identica.ui.h:6
+msgid "Identi.ca authorized"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/pingfm/ui/gwibber-accounts-pingfm.ui.h:1
+msgid ""
+"\n"
+"Ping.fm requires a \"remote key\" for access from gwibber, \n"
+"you can find your's at <a href=\"http://ping.fm/key/\">http://ping.fm/key/</"
+"a>\n"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/pingfm/ui/gwibber-accounts-pingfm.ui.h:6
+msgid "Account Settings:\t"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/statusnet/ui/gwibber-accounts-statusnet.ui.h:4
+msgid "Authorize with Status.Net"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/statusnet/ui/gwibber-accounts-statusnet.ui.h:7
+msgid "Site URL:"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/statusnet/ui/gwibber-accounts-statusnet.ui.h:8
+msgid "Status.net authorized"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/twitter/ui/gwibber-accounts-twitter.ui.h:4
+msgid "Authorize with twitter"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/twitter/ui/gwibber-accounts-twitter.ui.h:7
+msgid "Twitter authorized"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/qaiku/ui/gwibber-accounts-qaiku.ui.h:1
+msgid ""
+"<span size=\"small\"><b>Example:</b> username</span>\n"
+"You will need to enable \"API access\" to retrieve \n"
+"an API key, <a href=\"http://www.qaiku.com/settings/api/\">http://www.qaiku."
+"com/settings/api/</a>"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/qaiku/ui/gwibber-accounts-qaiku.ui.h:4
+msgid "API-key:"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/foursquare/ui/gwibber-accounts-foursquare.ui.h:1
+msgid "<span size=\"small\"><b>Example:</b> username@email.com</span>"
+msgstr ""
+
+#: ../gwibber/microblog/plugins/foursquare/ui/gwibber-accounts-foursquare.ui.h:7
+msgid "Pass_word:"
+msgstr ""
+
+#: ../ui/templates/base.mako:42
+#, c-format
+msgid "Posted from: %s"
+msgstr ""
+
+#: ../ui/templates/base.mako:51
+#, c-format
+msgid "%s users liked this"
+msgstr ""
+
+#: ../ui/templates/base.mako:53
+#, c-format
+msgid "%s user liked this"
+msgstr ""
+
+#: ../ui/templates/base.mako:103
+msgid "link"
+msgstr ""
+
+#: ../ui/templates/base.mako:166
+msgid "Menu"
+msgstr ""
+
+#: ../ui/templates/base.mako:171 ../ui/templates/base.mako:176
+msgid "Reply"
+msgstr ""
+
+#: ../ui/templates/base.mako:200
+msgid "from"
+msgstr ""
+
+#: ../ui/templates/base.mako:204
+msgid "in reply to"
+msgstr ""
+
+#: ../ui/templates/base.mako:301
+#, c-format
+msgid "%s followers"
+msgstr ""
+
+#: ../ui/templates/base.mako:389
+msgid "Your Accounts"
+msgstr ""
+
+#: ../ui/templates/base.mako:408
+msgid "Create New Account"
+msgstr ""
+
+#: ../ui/templates/base.mako:420
+msgid "Latest Replies"
+msgstr ""
+
+#: ../ui/templates/targetbar.mako:7
+msgid "Replying to {0} as {1}"
+msgstr ""
+
+#: ../ui/templates/targetbar.mako:8
+msgid "Reposting from {0} as {1}"
+msgstr ""
+
+#: ../ui/templates/targetbar.mako:9
+msgid "Sending private message to {0} as {1}"
+msgstr ""
+
+#: ../ui/templates/targetbar.mako:11
+msgid "{0} ({1}) - Disabled"
+msgstr ""
+
+#: ../ui/templates/targetbar.mako:96
+msgid "Send with:"
+msgstr ""
+
+#: ../bin/gwibber-poster:61
+msgid "Don't exit after posting"
+msgstr ""
+
+#: ../bin/gwibber-poster:64
+msgid "Don't exit when the window loses focus, also implies -d"
+msgstr ""
+
+#: ../bin/gwibber-poster:67
+msgid "Display window decorations"
+msgstr ""
+
+#: ../bin/gwibber-poster:70
+msgid "Log debug messages"
+msgstr ""
+
+#: ../bin/gwibber-poster:72
+msgid "Message to post"
+msgstr ""
+
+#: ../bin/gwibber-poster:85
+msgid "Gwibber Poster"
+msgstr ""

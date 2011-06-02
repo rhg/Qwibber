@@ -1,0 +1,11 @@
+[Desktop Entry]
+_Name=Broadcast Preferences
+_GenericName=Broadcast Preferences
+_X-GNOME-FullName=Broadcast Preferences
+Type=Application
+_Comment=Change your broadcast preferences
+Exec=gwibber-preferences
+Icon=gwibber
+Categories=GNOME;GTK;Settings;X-GNOME-PersonalSettings;
+X-GNOME-Gettext-Domain=gwibber
+X-Ayatana-Appmenu-Show-Stubs=False

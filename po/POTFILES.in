@@ -1,0 +1,39 @@
+gwibber.desktop.in
+gwibber-accounts.desktop.in
+gwibber-preferences.desktop.in
+gwibber/accounts.py
+gwibber/actions.py
+gwibber/client.py
+gwibber/gwui.py
+gwibber/lib/gtk/widgets.py
+gwibber/microblog/dispatcher.py
+gwibber/microblog/util/exceptions.py
+gwibber/microblog/plugins/flickr/gtk/flickr/__init__.py
+gwibber/microblog/plugins/friendfeed/gtk/friendfeed/__init__.py
+gwibber/microblog/plugins/facebook/gtk/facebook/__init__.py
+gwibber/microblog/plugins/statusnet/gtk/statusnet/__init__.py
+gwibber/microblog/plugins/twitter/gtk/twitter/__init__.py
+gwibber/microblog/plugins/identica/gtk/identica/__init__.py
+gwibber/microblog/plugins/buzz/gtk/buzz/__init__.py
+gwibber/microblog/plugins/digg/gtk/digg/__init__.py
+gwibber/microblog/plugins/pingfm/gtk/pingfm/__init__.py
+gwibber/microblog/plugins/qaiku/gtk/qaiku/__init__.py
+gwibber/preferences.py
+gwibber/util.py
+[type: gettext/glade] ui/gwibber-about-dialog.ui
+[type: gettext/glade] ui/gwibber-accounts-dialog.ui
+[type: gettext/glade] ui/gwibber-preferences-dialog.ui
+[type: gettext/glade] gwibber/microblog/plugins/buzz/ui/gwibber-accounts-buzz.ui
+[type: gettext/glade] gwibber/microblog/plugins/digg/ui/gwibber-accounts-digg.ui
+[type: gettext/glade] gwibber/microblog/plugins/facebook/ui/gwibber-accounts-facebook.ui
+[type: gettext/glade] gwibber/microblog/plugins/flickr/ui/gwibber-accounts-flickr.ui
+[type: gettext/glade] gwibber/microblog/plugins/friendfeed/ui/gwibber-accounts-friendfeed.ui
+[type: gettext/glade] gwibber/microblog/plugins/identica/ui/gwibber-accounts-identica.ui
+[type: gettext/glade] gwibber/microblog/plugins/pingfm/ui/gwibber-accounts-pingfm.ui
+[type: gettext/glade] gwibber/microblog/plugins/statusnet/ui/gwibber-accounts-statusnet.ui
+[type: gettext/glade] gwibber/microblog/plugins/twitter/ui/gwibber-accounts-twitter.ui
+[type: gettext/glade] gwibber/microblog/plugins/qaiku/ui/gwibber-accounts-qaiku.ui
+[type: gettext/glade] gwibber/microblog/plugins/foursquare/ui/gwibber-accounts-foursquare.ui
+ui/templates/base.mako
+ui/templates/targetbar.mako
+bin/gwibber-poster
